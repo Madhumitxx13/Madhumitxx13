@@ -151,12 +151,7 @@ class Madhumitha:
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Madhumitxx13&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=f5576c&icon_color=f5576c&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhumitxx13&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=f5576c&text_color=c9d1d9" />
-
-</div>
 
 <div align="center">
 
