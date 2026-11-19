@@ -2,6 +2,8 @@
 
 [![capsule-render](https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:f5576c,100:fda085&height=200&section=header&text=Madhumitha%20S&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Django%20%E2%80%A2%20Python%20%E2%80%A2%20Open%20to%20Internships&descAlignY=58&descSize=16&descColor=ffe0f0)](https://github.com/Madhumitxx13)
 
+<img src="./ascii.svg" width="460" alt="Madhumitha S, drawn in ASCII"/>
+
 </div>
 
 <div align="center">
